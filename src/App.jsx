@@ -195,6 +195,36 @@ export default function App() {
         artist: "Dewa 19",
         chordUrl: "https://share.google/66ZKlVDYHFqBdRwMg",
       },
+      {
+        id: 19,
+        title: "Bebaskan Diriku",
+        artist: "Armada",
+        chordUrl: "https://share.google/WIGao4YDxnMmjO2LV",
+      },
+      {
+        id: 20,
+        title: "Bergema Sampai Selamanya",
+        artist: "Nadhif Basalamah",
+        chordUrl: "https://share.google/rQsyLMN56bVWM8aVZ",
+      },
+      {
+        id: 21,
+        title: "Akhirnya Ku Menemukanmu",
+        artist: "Naff",
+        chordUrl: "https://share.google/s7Rqtoy9KQbM6k9L1",
+      },
+      {
+        id: 22,
+        title: "Melepasmu",
+        artist: "Drive",
+        chordUrl: "https://share.google/FDyrazOuHTPGPmQDP",
+      },
+      {
+        id: 22,
+        title: "Pegang Tanganku",
+        artist: "Nosstress",
+        chordUrl: "https://share.google/kDV0ELoN3pzHRVaFG",
+      },
       
     ],
     inggris: [
@@ -202,7 +232,25 @@ export default function App() {
         id: 1,
         title: "Sailor Song",
         artist: "Gigi Perez",
-        chordUrl: "https://tabs.ultimate-guitar.com/tab/oasis/wonderwall-chords-62006",
+        chordUrl: "https://share.google/TmfDjg7H34FU1IjDD",
+      },
+      {
+        id: 2,
+        title: "Creep",
+        artist: "Radiohead",
+        chordUrl: "https://share.google/TVxWjgzuGyKBnCOer",
+      },
+      {
+        id: 3,
+        title: "Sweet Scar",
+        artist: "Weird Genius",
+        chordUrl: "https://share.google/Jw9g3HMZNt71sJTUp",
+      },
+      {
+        id: 4,
+        title: "Self Healing",
+        artist: "Brian Rahmattio",
+        chordUrl: "https://share.google/M6rqr4k2njCdLnHZQ",
       },
     ],
     Malaysia: [
