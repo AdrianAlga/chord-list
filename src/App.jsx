@@ -14,6 +14,12 @@ export default function App() {
       color: "from-red-400 to-pink-500",
     },
     {
+      id: "lagu90",
+      name: "Musik 90an",
+      icon: "🎼",
+      color: "from-cyan-400 to-sky-500",
+    },
+    {
       id: "indonesia",
       name: "Musik Indonesia",
       icon: "🇮🇩",
@@ -84,7 +90,98 @@ export default function App() {
         artist: "Ridwan Sau",
         chordUrl: "https://share.google/cNmNGoSSV8ntox0BN",
       },
-      
+    ],
+    lagu90: [
+      {
+        id: 1,
+        title: "Titip Rindu Buat Ayah",
+        artist: "Ebiet G.Ade",
+        chordUrl: "https://share.google/uXHTqzBruZSG7cw8r",
+      },
+      {
+        id: 2,
+        title: "Disini di Batas Kota Ini",
+        artist: "Tommy J Pisa",
+        chordUrl: "https://share.google/dmWBiR8TWK3p4a5MP",
+      },
+      {
+        id: 3,
+        title: "Kau Tercipta Untukku",
+        artist: "Betharia Sonata",
+        chordUrl: "https://share.google/0uPyZ5UDlMUWYyjmk",
+      },
+      {
+        id: 4,
+        title: "Tenda Biru",
+        artist: "Desi Ratnasari",
+        chordUrl: "https://share.google/vcMvtUSpeVmUWDhlV",
+      },
+      {
+        id: 5,
+        title: "Tak Ingin Sendiri",
+        artist: "Pance Pondaag",
+        chordUrl: "https://share.google/Ipj53T8iqnpAIjoTK",
+      },
+      {
+        id: 6,
+        title: "Bintang Kehidupan",
+        artist: "Nike Ardila",
+        chordUrl: "https://share.google/oakyZtjxBd9KR1KUL",
+      },
+      {
+        id: 7,
+        title: "Hati Yang Luka",
+        artist: "Betharia Sonata",
+        chordUrl: "https://share.google/ezV7BhRgHVvgofytT",
+      },
+      {
+        id: 8,
+        title: "Cintaku Tak Terbatas Waktu",
+        artist: "Anie Carera",
+        chordUrl: "https://share.google/BmmaenJ5pwdxWGL7p",
+      },
+      {
+        id: 9,
+        title: "Yang Pertama Kali",
+        artist: "Harry Parintang",
+        chordUrl: "https://share.google/5g7dCaPRl9Yai6Urj",
+      },
+      {
+        id: 10,
+        title: "Cintaku Takkan Berubah",
+        artist: "Anie Carera",
+        chordUrl: "https://share.google/kL2lwxayiQgiqNPdJ",
+      },
+      {
+        id: 11,
+        title: "Yang Terlupakan",
+        artist: "Iwan Fals",
+        chordUrl: "https://share.google/ohx39s9kVXEDNz8zP",
+      },
+      {
+        id: 12,
+        title: "Suratan",
+        artist: "Tommy J Pisa",
+        chordUrl: "https://share.google/npDRcyvQk7DWkfRZp",
+      },
+      {
+        id: 13,
+        title: "Di Tepian Rindu",
+        artist: "Davi Siumbing",
+        chordUrl: "https://share.google/npDRcyvQk7DWkfRZp",
+      },
+      {
+        id: 14,
+        title: "Ayah",
+        artist: "Rinto Harahap",
+        chordUrl: "https://share.google/oMvKKEuE1aYoqIqs4",
+      },
+      {
+        id: 15,
+        title: "Ibu",
+        artist: "Iwan Fals",
+        chordUrl: "https://share.google/zoAny0z7tVZCMqMgH",
+      },
     ],
     indonesia: [
       {
@@ -163,7 +260,7 @@ export default function App() {
         id: 13,
         title: "Serana",
         artist: "For Revenge",
-        chordUrl: "https://share.google/geRYsdHYQKXfIxBg1x`",
+        chordUrl: "https://share.google/G4aK9NwXoUWVkMbjm",
       },
       {
         id: 14,
@@ -220,12 +317,23 @@ export default function App() {
         chordUrl: "https://share.google/FDyrazOuHTPGPmQDP",
       },
       {
-        id: 22,
+        id: 23,
         title: "Pegang Tanganku",
         artist: "Nosstress",
         chordUrl: "https://share.google/kDV0ELoN3pzHRVaFG",
       },
-      
+      {
+        id: 24,
+        title: "Takkan Pisah",
+        artist: "Eren (Kangen Band)",
+        chordUrl: "https://share.google/GvfRemBttSM7vmD4m",
+      },
+      {
+        id: 25,
+        title: "Takkan Pisah",
+        artist: "Eren (Kangen Band)",
+        chordUrl: "https://share.google/GvfRemBttSM7vmD4m",
+      },
     ],
     inggris: [
       {
