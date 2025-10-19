@@ -105,18 +105,6 @@ export default function App() {
         chordUrl: "https://share.google/dmWBiR8TWK3p4a5MP",
       },
       {
-        id: 3,
-        title: "Kau Tercipta Untukku",
-        artist: "Betharia Sonata",
-        chordUrl: "https://share.google/0uPyZ5UDlMUWYyjmk",
-      },
-      {
-        id: 4,
-        title: "Tenda Biru",
-        artist: "Desi Ratnasari",
-        chordUrl: "https://share.google/vcMvtUSpeVmUWDhlV",
-      },
-      {
         id: 5,
         title: "Tak Ingin Sendiri",
         artist: "Pance Pondaag",
@@ -284,7 +272,7 @@ export default function App() {
         id: 17,
         title: "Anugerah Terindah Yang Pernah Kumiliki",
         artist: "Sheila On 7",
-        chordUrl: "https://share.google/PHblTzQwtBk85PIyi",
+        chordUrl: "https://share.google/giCdJDORC2arGFO14",
       },
       {
         id: 18,
@@ -330,9 +318,9 @@ export default function App() {
       },
       {
         id: 25,
-        title: "Takkan Pisah",
-        artist: "Eren (Kangen Band)",
-        chordUrl: "https://share.google/GvfRemBttSM7vmD4m",
+        title: "Virus",
+        artist: "SLANK",
+        chordUrl: "https://share.google/e2rQqW7g6uVliTl0F",
       },
     ],
     inggris: [
