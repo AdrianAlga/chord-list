@@ -322,6 +322,12 @@ export default function App() {
         artist: "SLANK",
         chordUrl: "https://share.google/e2rQqW7g6uVliTl0F",
       },
+      {
+        id: 26,
+        title: "Saat Terakhir",
+        artist: "ST12",
+        chordUrl: "https://share.google/Otycdvv4KTqVsPdHs",
+      },
     ],
     inggris: [
       {
@@ -361,6 +367,12 @@ export default function App() {
         title: "Mencari Alasan",
         artist: "Exist",
         chordUrl: "https://share.google/CfXz7XogVMmO6gkTp",
+      },
+      {
+        id: 3,
+        title: "Gerimis Mengundang",
+        artist: "Slam",
+        chordUrl: "https://share.google/4mMeU3dSixtDLK1Pj",
       },
     ],
   };
