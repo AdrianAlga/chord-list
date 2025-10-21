@@ -328,6 +328,12 @@ export default function App() {
         artist: "ST12",
         chordUrl: "https://share.google/Otycdvv4KTqVsPdHs",
       },
+      {
+        id: 27,
+        title: "Sedia Aku Sebelum Hujan",
+        artist: "Idgitaf",
+        chordUrl: "https://share.google/2evazprl1HMT1cLdJ",
+      },
     ],
     inggris: [
       {
