@@ -334,6 +334,24 @@ export default function App() {
         artist: "Idgitaf",
         chordUrl: "https://share.google/2evazprl1HMT1cLdJ",
       },
+      {
+        id: 27,
+        title: "Sedia Aku Sebelum Hujan",
+        artist: "Idgitaf",
+        chordUrl: "https://share.google/2evazprl1HMT1cLdJ",
+      },
+      {
+        id: 27,
+        title: "Sedia Aku Sebelum Hujan",
+        artist: "Idgitaf",
+        chordUrl: "https://share.google/2evazprl1HMT1cLdJ",
+      },
+      {
+        id: 27,
+        title: "Sedia Aku Sebelum Hujan",
+        artist: "Idgitaf",
+        chordUrl: "https://share.google/2evazprl1HMT1cLdJ",
+      },
     ],
     inggris: [
       {
