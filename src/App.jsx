@@ -352,6 +352,25 @@ export default function App() {
         artist: "Last Child",
         chordUrl: "https://share.google/AkfmErSodN6kEy4kQ",
       },
+      {
+        id: 31,
+        title: "Munajat Cinta",
+        artist: "The Rock",
+        chordUrl: "https://share.google/wwYlq5QVHmqMNuS4J",
+      },
+      {
+        id: 32,
+        title: "Maafkan Aku",
+        artist: "Ungu",
+        chordUrl: "https://share.google/1CW4b9sznGt3ZKxfZ",
+      },
+      {
+        id: 33,
+        title: "Aku bukan pilihan hatimu",
+        artist: "Ungu",
+        chordUrl: "https://share.google/9O45oMrpReKn0CEsM",
+      },
+
     ],
     inggris: [
       {
