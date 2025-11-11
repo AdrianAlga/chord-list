@@ -370,6 +370,12 @@ export default function App() {
         artist: "Ungu",
         chordUrl: "https://share.google/9O45oMrpReKn0CEsM",
       },
+      {
+        id: 33,
+        title: "Aku bukan pilihan hatimu",
+        artist: "Ungu",
+        chordUrl: "https://share.google/9O45oMrpReKn0CEsM",
+      },
 
     ],
     inggris: [
