@@ -208,12 +208,12 @@ export default function App() {
         artist: "Naff",
         chordUrl: "https://share.google/u4gZcSJHD25Lo06pH",
       },
-      {
-        id: 7,
-        title: "Semua Tentang Kita",
-        artist: "Peterpan",
-        chordUrl: "https://share.google/2zR7VImZbLbOaqlNQ",
-      },
+      // {
+      //   id: 7,
+      //   title: "Semua Tentang Kita",
+      //   artist: "Peterpan",
+      //   chordUrl: "https://share.google/2zR7VImZbLbOaqlNQ",
+      // },
       {
         id: 8,
         title: "Selalu Ada",
@@ -226,12 +226,12 @@ export default function App() {
         artist: "Budi Doremi",
         chordUrl: "https://share.google/DWpiL85oKlaFJ1b4c",
       },
-      {
-        id: 10,
-        title: "Pergi Hilang dan Lupakan",
-        artist: "Remember of Today",
-        chordUrl: "https://share.google/fu1sOsUx8lVq6SKBf",
-      },
+      // {
+      //   id: 10,
+      //   title: "Pergi Hilang dan Lupakan",
+      //   artist: "Remember of Today",
+      //   chordUrl: "https://share.google/fu1sOsUx8lVq6SKBf",
+      // },
       {
         id: 11,
         title: "Cinta Luar Biasa",
