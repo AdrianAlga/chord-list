@@ -58,7 +58,7 @@ export default function App() {
         id: 3,
         title: "Jannang Ripangakkali",
         artist: "Ashari Sitaba",
-        chordUrl: "https://share.google/0ly7uygFCW3gMwZWa",
+        chordUrl: "https://share.google/LkGrwveQ2GldoWNNj",
       },
       {
         id: 4,
@@ -156,7 +156,7 @@ export default function App() {
         id: 13,
         title: "Di Tepian Rindu",
         artist: "Davi Siumbing",
-        chordUrl: "https://share.google/npDRcyvQk7DWkfRZp",
+        chordUrl: "https://share.google/61E9tzeiptVruubl1",
       },
       {
         id: 14,
@@ -208,12 +208,12 @@ export default function App() {
         artist: "Naff",
         chordUrl: "https://share.google/u4gZcSJHD25Lo06pH",
       },
-      // {
-      //   id: 7,
-      //   title: "Semua Tentang Kita",
-      //   artist: "Peterpan",
-      //   chordUrl: "https://share.google/2zR7VImZbLbOaqlNQ",
-      // },
+      {
+        id: 7,
+        title: "Demi Cinta",
+        artist: "Kerispatih",
+        chordUrl: "https://share.google/htNDkYcGdzU0A0UsU",
+      },
       {
         id: 8,
         title: "Selalu Ada",
