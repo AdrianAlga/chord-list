@@ -170,6 +170,12 @@ export default function App() {
         artist: "Iwan Fals",
         chordUrl: "https://share.google/zoAny0z7tVZCMqMgH",
       },
+      {
+        id: 16,
+        title: "Kisah Kasih di Sekolah",
+        artist: "Obbie Mesakh",
+        chordUrl: "https://share.google/eKmunE3hhjKtWdmHO",
+      },
     ],
     indonesia: [
       {
