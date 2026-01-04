@@ -46,7 +46,7 @@ export default function App() {
         id: 1,
         title: "Ammakku Surgaku",
         artist: "Adnan Bustam",
-        chordUrl: "https://share.google/eOL4DcsMKZBZqXk5n",
+        chordUrl: "https://share.google/w4XvdraWhfvGn8lAy",
       },
       {
         id: 2,
@@ -70,13 +70,13 @@ export default function App() {
         id: 5,
         title: "Naloko Nakku",
         artist: "Ridwan Sau",
-        chordUrl: "https://share.google/1fFTL7V7uwowFQfBI",
+        chordUrl: "https://share.google/hyf9wbV8WgmC8JgwN",
       },
       {
         id: 6,
         title: "Rannu",
         artist: "Ashari Sitaba",
-        chordUrl: "https://share.google/eOL4DcsMKZBZqXk5n",
+        chordUrl: "https://share.google/XtVoU3RQYJh46kRwk",
       },
       {
         id: 7,
@@ -88,7 +88,7 @@ export default function App() {
         id: 8,
         title: "Limbangmi Taung",
         artist: "Ridwan Sau",
-        chordUrl: "https://share.google/cNmNGoSSV8ntox0BN",
+        chordUrl: "https://share.google/Y1DLIypox6mXZUX4C",
       },
     ],
     lagu90: [
@@ -176,6 +176,13 @@ export default function App() {
         artist: "Obbie Mesakh",
         chordUrl: "https://share.google/eKmunE3hhjKtWdmHO",
       },
+      {
+        id: 17,
+        title: "Rumah Kita",
+        artist: "God Bless",
+        chordUrl: "https://share.google/J5sF6QSFoQbzX8Udm",
+      },
+
     ],
     indonesia: [
       {
